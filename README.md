@@ -55,5 +55,8 @@ A simple React-based expense tracking application that allows users to:
 ![Expense Tracker Screenshot](/src/assets/expense-tracker.PNG)
 
 
+[Check out the live app on Vercel.](https://expense-tracker-one-psi-56.vercel.app)
+
+
 ## License
 - This project is open source and available under the MIT License.
